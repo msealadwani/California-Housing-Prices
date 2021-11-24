@@ -47,3 +47,5 @@ The work will be done through Jupyter notebook.
 - What is the most favourite house location?
 - Does the proximity of the house to the ocean or its distance from it affect its price?
 - What is the relation between the number of bedrooms and the house price?
+
+#### Maha Saad Aladwani
