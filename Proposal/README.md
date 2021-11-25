@@ -1,9 +1,10 @@
+<p align="center">
+<b>California Housing Prices</b><br>
+
 
 <p align="center" width="100%">
 <img src="https://cdn.vox-cdn.com/thumbor/xYFIvohVOcFDFkkDpG1P4b9J5gE=/0x0:8736x5824/920x613/filters:focal(3670x2214:5066x3610):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56696503/shutterstock_154454792.0.0.jpeg" width="550" length="100" style="display: block; margin: 0 auto"/>
 </p>
-
-# California Housing Prices
 
 The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data.
 
@@ -40,6 +41,10 @@ There are tools that will be used to achieve the goal of this study, such as:
 - matplotlib and Seaborn for visualizing the data.
 - scikit-learn to do our machine learning.
 - statsmodels to do the regressions.
+- plotly provides online graphing, analytics, and statistics tools
+- Powerpoint
+- Zoom
+- Canva
 The work will be done through Jupyter notebook.
 
 ## Questions that needs to be answered:
@@ -47,5 +52,14 @@ The work will be done through Jupyter notebook.
 - What is the most favourite house location?
 - Does the proximity of the house to the ocean or its distance from it affect its price?
 - What is the relation between the number of bedrooms and the house price?
+- Does the population affects on the house value?
 
-#### Maha Saad Aladwani
+## Authors:
+- [@msealadwani](https://github.com/msealadwani)
+- [@Yazeed-11](https://github.com/Yazeed-11)
+- [@halaalanzi](http://github.com/halaalanzi)
+  
+ <b>Project at SDAIA Academy</b><br>
+
+
+
