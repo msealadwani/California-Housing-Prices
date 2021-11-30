@@ -45,7 +45,8 @@ There are tools that will be used to achieve the goal of this study, such as:
 - Powerpoint
 - Zoom
 - Canva
-The work will be done through Jupyter notebook.
+
+<b>The work will be done through Jupyter notebook.</b>
 
 ## Questions that needs to be answered:
 - Does the age of the house affects on the house value?
