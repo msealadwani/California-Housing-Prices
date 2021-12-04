@@ -40,8 +40,8 @@ There are tools that will be used to achieve the goal of this study, such as:
 - pandas, numpy for exploring the data.
 - matplotlib and Seaborn for visualizing the data.
 - scikit-learn to do our machine learning.
-- statsmodels to do the regressions.
-- plotly provides online graphing, analytics, and statistics tools
+- math library to use sqrt.
+- folium library to visualize a map.
 - Powerpoint
 - Zoom
 - Canva
